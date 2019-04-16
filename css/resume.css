@@ -30,8 +30,8 @@ h6 {
 }
 
 h1 {
-  font-size: 6rem;
-  line-height: 5.5rem;
+  font-size: 3rem;
+  line-height: 3rem;
 }
 
 h2 {
@@ -44,7 +44,7 @@ h3 {
 
 p.lead {
   font-size: 1.15rem;
-  font-weight: 400;
+  font-weight: 200;
 }
 
 .subheading {
