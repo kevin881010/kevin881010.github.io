@@ -3,12 +3,16 @@ html{
 }
 h1,p{ 
    	 font-family:  'Noto Sans TC', sans-serif;
-     text-transform:noon;
+     text-transform:none;
+}
+h2,mb-5{
+     color:	#1E90FF;
 }
 .subheading{
 	 font-family:  'Noto Sans TC', sans-serif;
 	 font-size:1.2rem;
 	 letter-spacing: -0.05rem;
+	 text-transform:none!important;
 }
 text-primary{
 	 font-size:3rem;
