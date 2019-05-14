@@ -23,3 +23,23 @@ text-primary{
 	background-color:#005f70!important;
 	background-image:url("https://www.transparenttextures.com/patterns/redox-01.png");
 }
+h2,p{ 
+   	 font-family:  'Noto Sans TC', sans-serif;
+     text-transform:none;
+}
+h3,p{ 
+   	 font-family:  'Noto Sans TC', sans-serif;
+     text-transform:none;
+}
+h4,p{ 
+   	 font-family:  'Noto Sans TC', sans-serif;
+     text-transform:none;
+}
+h5,p{ 
+   	 font-family:  'Noto Sans TC', sans-serif;
+     text-transform:none;
+}
+h6,p{ 
+   	 font-family:  'Noto Sans TC', sans-serif;
+     text-transform:none;
+}
